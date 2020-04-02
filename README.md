@@ -2,7 +2,7 @@
 Program can be run using the "run" button, which uses the .replit file.
 It will run the following command:
 ```
-cd Exercise1
+cd Week1Exercise
 javac TermFrequency.java
 java TermFrequency ../pride_and_prejudice.txt
 ```
